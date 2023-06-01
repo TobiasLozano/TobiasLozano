@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @TobiasLozano
 - 👀 I’m interested in web development
-`bash
+```bash
 - Skills: {
        backend : [Django,NestJs],
        frontend : [Reactjs,HTML,CSS-FRAMEWORKS:[Bootstrap,MaterialUI,Tailwind],
        others:[Git,Linux,Microcontrollers-programming]
        }
- `
+ ```
 - 🌱 I’m currently learning React JS and backend (Django)
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: Gmail: tobiaslozano148@gmail.com
