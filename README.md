@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TobiasLozano
 - 👀 I’m interested in web development
 ```js
- const skills= {
+ const skills = {
                   backend : [Django,NestJs],
                   frontend : [Reactjs,HTML,CSS-FRAMEWORKS:[Bootstrap,MaterialUI,Tailwind],
                   others:[Git,Linux,Microcontrollers-programming]
