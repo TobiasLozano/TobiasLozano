@@ -2,10 +2,10 @@
 - 👀 I’m interested in web development
 ```js
  const skills= {
-       backend : [Django,NestJs],
-       frontend : [Reactjs,HTML,CSS-FRAMEWORKS:[Bootstrap,MaterialUI,Tailwind],
-       others:[Git,Linux,Microcontrollers-programming]
-       }
+                  backend : [Django,NestJs],
+                  frontend : [Reactjs,HTML,CSS-FRAMEWORKS:[Bootstrap,MaterialUI,Tailwind],
+                  others:[Git,Linux,Microcontrollers-programming]
+               }
  ```
 - 🌱 I’m currently learning React JS and backend (Django)
 - 💞️ I’m looking to collaborate on web projects
