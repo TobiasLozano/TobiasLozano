@@ -1,10 +1,9 @@
--  I’m @TobiasLozano
-- 👀 I’m web developer
+-  I’m @TobiasLozano, web developer
 ```js
  const skills = {
                   backend : [Django,NestJs],
                   frontend : [Reactjs,HTML,CSS-FRAMEWORKS:[Bootstrap,MaterialUI,Tailwind],
-                  others:[Git,Linux,Microcontrollers]
+                  others:[Git,Linux,WebServers]
                }
  ```
 
