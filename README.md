@@ -1,4 +1,4 @@
--  I’m @TobiasLozano, web developer
+ I’m @TobiasLozano, web developer
 ```js
  const skills = {
                   backend : [Django,NestJs],
